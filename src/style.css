@@ -22,5 +22,12 @@ nav ul {
 }
 
 nav ul {
-  list-style:  nome;
-  text-align: center;
+  display: inline;
+  margin: 0 15px;
+}
+
+img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
