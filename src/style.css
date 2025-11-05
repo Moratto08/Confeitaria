@@ -8,6 +8,7 @@ header {
   font-size: 50px;
   background-color: #f8b400;
   color: white;
+  : 150;
 }
 
 h1 {
@@ -18,5 +19,8 @@ h1 {
 nav ul {
   list-style:  nome;
   text-align: center;
-
 }
+
+nav ul {
+  list-style:  nome;
+  text-align: center;
