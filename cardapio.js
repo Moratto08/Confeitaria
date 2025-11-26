@@ -5,7 +5,7 @@ const divItemCardapio = document.createElement('div')
 divItemCardapio.className = 'item-cardapio'
 //colocar a classe
 
-cosnt h3Titulo = document.createElement('h3')
+const h3Titulo = document.createElement('h3')
 h3Titulo.textContent = titulo
 
 const pDescricao = document.createElement('p')
