@@ -9,6 +9,7 @@ const h3Titulo = document.createElement('h3')
 h3Titulo.textContent = titulo
 
 const pDescricao = document.createElement('p')
+pDescricao.textContent = descricao
 pDescricao.className = 'descricao'
 // adicionar a classe
 
