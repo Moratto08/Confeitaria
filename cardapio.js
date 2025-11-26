@@ -27,6 +27,7 @@ divC.appendChild(divItemCardapio)
 
 }
 
-// Execurando a função
-criarItemCardapio('Bolo de chocolate','Um clássico irresistível com
-            camadas de chocolate','https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/05/bolo_chocolate_leite.jpg')
+// Executando a função
+criarItemCardapio('Bolo de chocolate', 'Um clássico irresistível com
+            camadas de chocolate',
+            'https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/05/bolo_chocolate_leite.jpg')
